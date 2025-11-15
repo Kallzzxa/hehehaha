@@ -1,0 +1,20 @@
+{
+  "app_server_status": true,
+  "app_beta_status": false,
+  "app_status": true,
+  "status": true,
+  "game_version": "1.0.0",
+  "game_url": "",
+  "arz_status": true,
+  "arz_version": "1.0.0",
+  "discord": "https://discord.gg/6uAFZapJaW",
+  "changelog": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/changelog",
+  "servers": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/servers",
+  "banned": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/banned",
+  "full_list": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/full_list.json",
+  "lite_list": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/lite_list.json",
+  "samp_list": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/samp_list.json",
+  "full_list_url": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/full_list.json",
+  "lite_list_url": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/lite_list.json",
+  "samp_list_url": "https://raw.githubusercontent.com/Aarmaaa28/hehehaha/refs/heads/main/samp_list.json"
+}
