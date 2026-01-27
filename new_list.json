@@ -15,6 +15,62 @@
             "gpu": "all"
         },
         {
+            "name": "american.gxt",
+            "size": "1339116",
+            "path": "Text/american.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/american.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "french.gxt",
+            "size": "1463584",
+            "path": "Text/french.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/french.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "german.gxt",
+            "size": "1497150",
+            "path": "Text/german.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/german.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "italian.gxt",
+            "size": "1371036",
+            "path": "Text/italian.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/italian.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "japanese.gxt",
+            "size": "643330",
+            "path": "Text/japanese.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/japanese.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "russian.gxt",
+            "size": "1421070",
+            "path": "Text/russian.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/russian.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "spanish.gxt",
+            "size": "1386748",
+            "path": "Text/spanish.gxt",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/spanish.gxt",
+            "gpu": "all"
+        },
+        {
+            "name": "sampaux3.ttf",
+            "size": "7376",
+            "path": "fonts/sampaux3.ttf",
+            "url": "https://github.com/Aarmaaa28/hehehaha/raw/refs/heads/main/sampaux3.ttf",
+            "gpu": "all"
+        },
+        {
             "name": "gtaweap3.ttf",
             "path": "fonts\/gtaweap3.ttf",
             "size": "104004",
