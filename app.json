@@ -2,6 +2,7 @@
   "app_server_status": true,
   "app_beta_status": false,
   "app_status": true,
+  "app_testers": [],
   "status": true,
   "game_version": "16.1",
   "game_url": "",
