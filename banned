@@ -1,13 +1,12 @@
 {
-  "servers": [
+  "banned_servers": [
     {
-      "id": "",
-      "serverId": "",
-      "userId": "",
-      "host": "",
-      "port": 0,
-      "bannedBy": "",
-      "reason": ""
+      "host": "127.0.0.1",
+      "port": "7777"
+    },
+    {
+      "host": "192.168.1.1",
+      "port": "7777"
     }
   ]
 }
