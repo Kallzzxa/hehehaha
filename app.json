@@ -18,5 +18,9 @@
   "new_list": "https://raw.githubusercontent.com/Kallzzxa/hehehaha/refs/heads/main/new_list.json",
   "full_list_url": "https://raw.githubusercontent.com/Kallzzxa/hehehaha/refs/heads/main/full_list.json",
   "lite_list_url": "https://raw.githubusercontent.com/Kallzzxa/hehehaha/refs/heads/main/lite_list.json",
-  "samp_list_url": "https://raw.githubusercontent.com/Kallzzxa/hehehaha/refs/heads/main/samp_list.json"
+  "samp_list_url": "https://raw.githubusercontent.com/Kallzzxa/hehehaha/refs/heads/main/samp_list.json",
+  "data_url": "https://www.mediafire.com/file/rhkel93l3frrgtn/files.zip/file",
+  "data_version": "1",
+  "data_size": 666478908,
+  "data_sentinel": "SAMP/SAMP.ide"
 }
